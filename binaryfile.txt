@@ -1,0 +1,13 @@
+./a1.c
+./a3.c
+./Makefile
+./a2.c
+./scanner.c
+./a4.c
+./hashedListCurr.txt
+./binaryfile.c
+./virus.c
+./Untitled Document
+./Untitled Document 2
+./hello.asm
+./hello.c
